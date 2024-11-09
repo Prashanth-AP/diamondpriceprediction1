@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-=======
+
+
 # Diamond Price Prediction
 
 There are 10 independent variables (including id): The goal is to predict price of given diamond (Regression Analysis).
@@ -53,4 +53,4 @@ price: Price of the given Diamond.
 - The Decision Tree Model is the best Model among Ridge,Lasso,      Elastic and LinearRegression models for this Project.
 
 - The Model is able to Perform well for the test data with the r2 score : 95.50%
->>>>>>> b4eb4596258634794a0fccd1d90a8eccec4d8393
+
