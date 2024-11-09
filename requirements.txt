@@ -1,4 +1,6 @@
 pandas
 numpy
 flask
--e .
+# -e .
+seaborn
+matplotlib
